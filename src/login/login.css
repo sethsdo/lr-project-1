@@ -1,0 +1,13 @@
+.container{
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 300px;
+    border: 1px solid black;
+}
+form{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+h1{
+    text-align: center
+}
